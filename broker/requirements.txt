@@ -1,0 +1,6 @@
+celery[mongodb]
+boto3
+pymongo
+sqlalchemy
+psycopg2
+redis

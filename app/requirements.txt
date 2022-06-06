@@ -1,0 +1,7 @@
+Flask==2.1.0
+celery[mongodb]
+boto3
+pymongo
+sqlalchemy
+psycopg2
+redis
